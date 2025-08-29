@@ -37,7 +37,7 @@ Potrzebujesz wsparcia w realizacji swojej wizji? Nasz zespół jest gotowy, aby 
 
 **🌐 Website:** [codephoria.pl](https://codephoria.pl)
 
-**💬 Discord:** [discord.gg/codephoria](https://discord.gg/NsZxXD96sr)
+**💬 Discord:** [dc.codephoria.pl](https://dc.codephoria.pl)
 
 ---
 
