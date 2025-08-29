@@ -1,8 +1,8 @@
 ##
 
 <div align="center">
-    <img src="/assets/CodePhoria-Logo.svg" height="80" alt="CodePhoria Logo" style="vertical-align: middle; margin-right: 16px;"/>
-    <span style="font-size: 48px; font-weight: bold; vertical-align: middle;">CodePhoria</span>
+    <img src="/assets/CodePhoria-Logo.svg" width="128" alt="CodePhoria Logo"/>
+    <h1>CodePhoria</h1>
 </div>
 
 **CodePhoria** to zespół kreatywnych pasjonatów technologii, mechanizmów, systemów.
