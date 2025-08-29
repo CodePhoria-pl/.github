@@ -5,9 +5,9 @@
     <h1>CodePhoria</h1>
 </div>
 
-**CodePhoria** to zespół kreatywnych pasjonatów technologii, mechanizmów, systemów.
+**CodePhoria** to zespół kreatywnych pasjonatów technologii, innowacyjnych rozwiązań i cyfrowych przemian.
 
-*Technologia • Design • Zmiany*
+*Technologia • Design • Innowacje*
 
 ---
 
